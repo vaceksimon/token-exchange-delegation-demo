@@ -1,4 +1,4 @@
-package org.keycloak;
+package org.keycloak.demo.subject;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
